@@ -23,5 +23,4 @@ How to Run
 
 ./main
 
-Concepts Practiced
 
