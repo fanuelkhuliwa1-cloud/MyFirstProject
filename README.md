@@ -25,7 +25,3 @@ How to Run
 
 Concepts Practiced
 
-- Random number generation
-- Variables and integers
-- Conditional statements
-- Output using "cout"
